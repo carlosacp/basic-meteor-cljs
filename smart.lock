@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "clojurescript": {}
+    },
+    "packages": {
+      "clojurescript": {
+        "git": "https://github.com/mystor/meteor-clojurescript.git",
+        "tag": "v0.1.0",
+        "commit": "69367240f958fb04c02a8bd82e36d2c0187de6f9"
+      }
+    }
+  }
+}
